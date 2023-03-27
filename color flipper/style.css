@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    /* font family  */
+    background: grey;
+    color: grey;
+    line-height: 1.5;
+    font-size: 0.875rem;
+}
+
+ul {
+    list-style-type: 
+}
+
+a {
+    text-decoration: 
+}
+
+h1,h2,h3,h4 {
+    letter-spacing: 0.1rem;
+    text-transform: capitalize;
+    line-height: 1.25;
+    margin-bottom: 0.75rem;
+    /* font-family:  */
+    
+}
